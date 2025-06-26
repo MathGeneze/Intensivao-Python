@@ -1,4 +1,4 @@
-# Projeto - Automação de Tarefas | Intensivão de Python
+# Aula 1 - Automação de Tarefas | Intensivão de Python
 
 <!--------------- 📌 Introdução -------------->
 ## 📌 Introdução

@@ -27,9 +27,9 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 ## 💡 Principais Aprendizados
 
-## 📁 Estrutura do Projeto
+## 📒 Estrutura do Projeto
 
-## 🚀 Resultado
+## 🚀 Conclusão
 
 &nbsp;
 
@@ -41,9 +41,9 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 ### 💡 Principais Aprendizados
 
-### 📁 Estrutura do Projeto
+### 📒 Estrutura do Projeto
 
-### 🚀 Resultado
+### 🚀 Conclusão
 
 &nbsp;
 
@@ -51,15 +51,18 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 ## ⌛ Aula 3 - Projeto Python IA: Previsões com Inteligência Artificial
 
+Aprendendo ... Trago o resumo em breve 😉👍
+
+<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="400" height="400" alt="Python"/>
+
+
 &nbsp;
 
 ---
 
 ## ⌛ Aula 4 - Python Dev: Aplicações Web com Python
 
+Aprendendo ... Trago o resumo em breve 😉👍
 
-### 🚀 Resultado
+<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="400" height="400" alt="Python"/>
 
-A aplicação permite a troca de mensagens em tempo real entre usuários conectados, com uma interface amigável e funcional — simulando um sistema de chat semelhante ao WhatsApp Web, mas feito totalmente em Python.
-
----

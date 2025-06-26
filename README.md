@@ -13,23 +13,23 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 &nbsp;
 
-- ✅ **Aula 2:** **Análise de Dados com Python** 
+- ✅ **Aula 2:** **Análise de Dados com Python.** 
   - [▶︎ Clique Aqui para acessar a Documentação ◀︎](./Aula%202%20-%20Análise%20de%20Dados/README.md)
 
 &nbsp;
 
 - ⌛ **Aula 3:** *Inteligência Artificial e Previsões*  
-- ⌛ **Aula 4:** *Criação de Sites e Sistemas com Python*
+- ⌛ **Aula 4:** *Aplicações Web com Python*
 
 &nbsp;
 
 ## ✅ Aula 1 - Python Power Up: Automação de Tarefas
 
-## 💡 Principais Aprendizados
+### 📌 Principais Aprendizados
 
-## 📒 Estrutura do Projeto
+### 💾 Tecnologias utilizadas
 
-## 🚀 Conclusão
+### 🌟 Conclusão
 
 &nbsp;
 
@@ -39,11 +39,11 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 ## ✅ Aula 2 - Análise de Dados com Python
 
-### 💡 Principais Aprendizados
+### 📌 Principais Aprendizados
 
-### 📒 Estrutura do Projeto
+### 💾 Tecnologias utilizadas
 
-### 🚀 Conclusão
+### 🌟 Conclusão
 
 &nbsp;
 
@@ -51,7 +51,7 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 ## ⌛ Aula 3 - Projeto Python IA: Previsões com Inteligência Artificial
 
-Aprendendo ... Trago o resumo em breve 😉👍
+Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
 <img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="400" height="400" alt="Python"/>
 
@@ -62,7 +62,7 @@ Aprendendo ... Trago o resumo em breve 😉👍
 
 ## ⌛ Aula 4 - Python Dev: Aplicações Web com Python
 
-Aprendendo ... Trago o resumo em breve 😉👍
+Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
 <img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="400" height="400" alt="Python"/>
 

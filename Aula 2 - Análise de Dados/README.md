@@ -8,13 +8,10 @@
 
 <!----------- 📁 Sumário ---------->
 ## 📁 Sumário
-- [Projeto - Análise de Cancelamento de Clientes | Intensivão de Python](#projeto---análise-de-cancelamento-de-clientes--intensivão-de-python)
-  - [📍 Introdução](#-introdução)
-  - [📁 Sumário](#-sumário)
-  - [🌐 Explicação do Projeto](#-explicação-do-projeto)
-  - [📄 Estrutura do Projeto](#-estrutura-do-projeto)
-  - [🖥️ Requisitos](#️-requisitos)
-  - [💡 Observação](#-observação)
+- [➥ Explicação do Projeto](#explicação-do-projeto)
+- [➨ Estrutura do Projeto](#estrutura-do-projeto)
+- [➨ Requisitos](#requisitos)
+- [➦ Observação](#observação)
 
 &nbsp;
 

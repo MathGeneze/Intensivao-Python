@@ -8,13 +8,10 @@
 
 <!----------- Sumário ---------->
 ## 📒 Sumário
-- [Projeto - Automação de Tarefas | Intensivão de Python](#projeto---automação-de-tarefas--intensivão-de-python)
-  - [📌 Introdução](#-introdução)
-  - [📒 Sumário](#-sumário)
-  - [♻️ Explicação do Projeto](#️-explicação-do-projeto)
-  - [🗂️ Estrutura do Projeto](#️-estrutura-do-projeto)
-  - [⚙️ Requisitos](#️-requisitos)
-  - [⚠️ Observações](#️-observações)
+- [➥ Explicação do Projeto](#explicação-do-projeto)
+- [➨ Estrutura do Projeto](#estrutura-do-projeto)
+- [➨ Requisitos](#requisitos)
+- [➦ Observações](#observações)
 
 &nbsp;
 

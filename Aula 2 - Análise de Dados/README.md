@@ -8,10 +8,10 @@
 
 <!----------- 📁 Sumário ---------->
 ## 📁 Sumário
-- [➥ Explicação do Projeto](#explicação-do-projeto)
-- [➨ Estrutura do Projeto](#estrutura-do-projeto)
-- [➨ Requisitos](#requisitos)
-- [➦ Observação](#observação)
+- [▶︎ Explicação do Projeto](#explicação-do-projeto)
+- [▶︎ Estrutura do Projeto](#estrutura-do-projeto)
+- [▶︎ Requisitos](#requisitos)
+- [▶︎ Observação](#observação)
 
 &nbsp;
 

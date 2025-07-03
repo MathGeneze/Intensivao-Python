@@ -9,12 +9,12 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 ## 📚 Aulas / Links para documentação
 
 - ✅ **Aula 1:** **Python Power Up: Automação de Tarefas.**
-  - [▶︎ Clique Aqui para acessar a Documentação ◀︎](./Aula%201%20-%20Automação%20de%20Tarefas/README.md)
+  - [▶︎ Clique Aqui para acessar a Documentação Completa ◀︎](./Aula%201%20-%20Automação%20de%20Tarefas/README.md)
 
 &nbsp;
 
 - ✅ **Aula 2:** **Análise de Dados com Python.** 
-  - [▶︎ Clique Aqui para acessar a Documentação ◀︎](./Aula%202%20-%20Análise%20de%20Dados/README.md)
+  - [▶︎ Clique Aqui para acessar a Documentação Completa ◀︎](./Aula%202%20-%20Análise%20de%20Dados/README.md)
 
 &nbsp;
 
@@ -53,7 +53,7 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
-<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="400" height="400" alt="Python"/>
+<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="300" height="300" alt="Python"/>
 
 
 &nbsp;
@@ -64,5 +64,5 @@ Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
 Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
-<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="400" height="400" alt="Python"/>
+<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="300" height="300" alt="Python"/>
 

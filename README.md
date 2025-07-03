@@ -26,10 +26,18 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 ## ✅ Aula 1 - Python Power Up: Automação de Tarefas
 
 ### 📌 Principais Aprendizados
+Neste projeto, aprendi como **automatizar tarefas** repetitivas do dia a dia usando **Python**. A prática mostrou como é possível economizar horas de trabalho com automação, realizando processos como login em sites, cadastro de produtos e geração de relatórios de forma totalmente automática. Além disso, compreendi a importância da manipulação de dados com `pandas` e do controle do mouse e teclado com `pyautogui`.
+
 
 ### 💾 Tecnologias utilizadas
+- **Biblioteca `pyautogui`** — para automação de movimentos do mouse e teclado.  
+- **Biblioteca `pandas`** — para leitura e manipulação de dados em planilhas.  
+- **Google Chrome** — navegador utilizado no processo automatizado.
+
 
 ### 🌟 Conclusão
+Este projeto mostrou na prática como o Python pode ser um aliado poderoso na **automação de processos manuais** dentro de uma rotina empresarial. Automatizando o cadastro de quase 300 produtos em um site fictício, ficou claro o potencial de ganho de produtividade. A experiência reforçou minha base em Python e abriu portas para explorar mais soluções de automação no futuro.
+
 
 &nbsp;
 
@@ -40,10 +48,16 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 ## ✅ Aula 2 - Análise de Dados com Python
 
 ### 📌 Principais Aprendizados
+Neste projeto, aprendi a realizar uma **análise de dado**s completa usando **Python** para resolver um problema real: entender o motivo de cancelamento de clientes. Trabalhei com uma base de *50 mil registros*, aplicando técnicas de importação, limpeza e tratamento de dados. Além disso, desenvolvi habilidades na criação de gráficos interativos para visualizar padrões e insights importantes.
 
 ### 💾 Tecnologias utilizadas
+- **Biblioteca `pandas`** — para leitura, limpeza e manipulação dos dados.  
+- **Biblioteca `plotly`** — para criação de gráficos dinâmicos e interativos.  
+- **Biblioteca `nbformat`** — suporte para o uso do `plotly` em notebooks.  
+- **Extensão: Jupyter Notebook** — ambiente de desenvolvimento para notebooks interativos.
 
 ### 🌟 Conclusão
+Este projeto mostrou como o Python pode ser usado para **investigar grandes volumes de dados**, identificar padrões e descobrir causas de problemas que impactam diretamente o negócio. A experiência reforçou a importância da análise de dados e visualização para tomada de decisões baseadas em evidências, além de consolidar meu domínio de ferramentas como `pandas` e `plotly`.
 
 &nbsp;
 

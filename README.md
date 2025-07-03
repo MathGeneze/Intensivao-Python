@@ -67,7 +67,7 @@ Este projeto mostrou como o Python pode ser usado para **investigar grandes volu
 
 Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
-<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="300" height="300" alt="Python"/>
+<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="250" height="250" alt="Python"/>
 
 
 &nbsp;
@@ -78,5 +78,5 @@ Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
 Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
 
-<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="300" height="300" alt="Python"/>
+<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="250" height="250" alt="Python"/>
 

@@ -30,8 +30,10 @@ Neste projeto, aprendi como **automatizar tarefas** repetitivas do dia a dia usa
 
 
 ### 💾 Tecnologias utilizadas
-- **Biblioteca `pyautogui`** — para automação de movimentos do mouse e teclado.  
-- **Biblioteca `pandas`** — para leitura e manipulação de dados em planilhas.  
+- **Bibliotecas:**
+  -  **`pyautogui`** — Automação de movimentos do mouse e teclado.  
+  -  **`pandas`** — Leitura e manipulação de dados em planilhas.
+
 - **Google Chrome** — navegador utilizado no processo automatizado.
 
 
@@ -51,10 +53,12 @@ Este projeto mostrou na prática como o Python pode ser um aliado poderoso na **
 Neste projeto, aprendi a realizar uma **análise de dado**s completa usando **Python** para resolver um problema real: entender o motivo de cancelamento de clientes. Trabalhei com uma base de *50 mil registros*, aplicando técnicas de importação, limpeza e tratamento de dados. Além disso, desenvolvi habilidades na criação de gráficos interativos para visualizar padrões e insights importantes.
 
 ### 💾 Tecnologias utilizadas
-- **Biblioteca `pandas`** — para leitura, limpeza e manipulação dos dados.  
-- **Biblioteca `plotly`** — para criação de gráficos dinâmicos e interativos.  
-- **Biblioteca `nbformat`** — suporte para o uso do `plotly` em notebooks.  
-- **Extensão: Jupyter Notebook** — ambiente de desenvolvimento para notebooks interativos.
+- **Bibliotecas:**
+  - **`pandas`** — Leitura, limpeza e manipulação dos dados.  
+  - **`plotly`** — Criação de gráficos dinâmicos e interativos.  
+  - **`nbformat`** — Suporte para o uso do `plotly` em notebooks.
+
+- **Extensão: Jupyter Notebook** — Ambiente de desenvolvimento para notebooks interativos.
 
 ### 🌟 Conclusão
 Este projeto mostrou como o Python pode ser usado para **investigar grandes volumes de dados**, identificar padrões e descobrir causas de problemas que impactam diretamente o negócio. A experiência reforçou a importância da análise de dados e visualização para tomada de decisões baseadas em evidências, além de consolidar meu domínio de ferramentas como `pandas` e `plotly`.

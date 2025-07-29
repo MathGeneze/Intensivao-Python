@@ -22,14 +22,13 @@
 * Passo 1: **Importar** a Base de Dados.
 
 * Passo 2: Preparar a Base de Dados.
-    * Limpeza de Dados.
-    * Separar a Base de Dados para o modelo de IA.
 
 * Passo 3: **Criar o modelo de IA**.
 
 * Passo 4: Criando a previsão e Escolhendo o melhor modelo.
 
 * Passo 5: Fazendo novas previões.
+
 > Para este projeto, usaremos duas Biblioteca:
   * `pandas` - Manipulação de dados dos clientes;
   * `scikit-learn` - Criação de modelos de Inteligência Artificial;

@@ -19,13 +19,13 @@
 
 ⚑  Vamos separar a lógica do nosso programa em 5 passos:
 
-* Passo 1: Importar a Base de Dados.
+* Passo 1: **Importar** a Base de Dados.
 
 * Passo 2: Preparar a Base de Dados.
     * Limpeza de Dados.
     * Separar a Base de Dados para o modelo de IA.
 
-* Passo 3: Criar o modelo de IA.
+* Passo 3: **Criar o modelo de IA**.
 
 * Passo 4: Criando a previsão e Escolhendo o melhor modelo.
 
@@ -38,9 +38,9 @@
 
 <!--------------- 📄 Estrutura do Projeto -------------->
 ## <a id="estrutura-do-projeto">📄 Estrutura do Projeto</a>
-> - `inicial.ipynb` - Script principal do projeto.
-> - `clientes.csv` - Contém os dados dos clientes que serão utilizados para alimentar o modelo de IA.
-> - `novos_clientes` - Contém os dados dos clientes que utilizaremos para ter novas previões após a criação do modelo.
+> - `inicial.ipynb` - **Script principal** do projeto.
+> - `clientes.csv` - Contém os dados dos clientes que serão utilizados para **alimentar o modelo de IA**.
+> - `novos_clientes` - Contém os dados dos clientes que utilizaremos para ter **novas previões** após a criação do modelo.
 
 &nbsp;
 

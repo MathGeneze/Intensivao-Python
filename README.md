@@ -80,7 +80,7 @@ Neste projeto, aprendi mais formas de limpeza de dados antes de inicializar qual
 - **Extensão: Jupyter Notebook** — Ambiente de desenvolvimento para notebooks interativos.
 
 ### 🌟 Conclusão
-Esse projeto abriu meus olhos para o mundo do Machine Learning, não esperava que criar um modelo de Inteligência Artificial fosse ser um processo tão bem estruturado utilizando a biblioteca Scikit-Learn, sem falar no processo de limpeza de dados antes de alimentar de fato o modelo. Essa experiência me agregou muito nos meus conhecimentos como programador.
+Esse projeto abriu meus olhos para o mundo do Machine Learning, não esperava que criar um modelo de Inteligência Artificial fosse ser um processo tão bem estruturado utilizando a biblioteca Scikit-Learn, sem falar no processo de limpeza de dados antes de alimentar de fato o modelo. Essa experiência agregou muito nos meus conhecimentos como programador.
 
 &nbsp;
 

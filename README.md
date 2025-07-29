@@ -69,10 +69,18 @@ Este projeto mostrou como o Python pode ser usado para **investigar grandes volu
 
 ## ⌛ Aula 3 - Projeto Python IA: Previsões com Inteligência Artificial
 
-Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
+### 📌 Principais Aprendizados
+Neste projeto, aprendi mais formas de limpeza de dados antes de inicializar qualquer tipo de análise e a importância dela para qualquer projeto envolvendo Análise de Daods. Também aprendi na prática como é criar e treinar um modelo de Inteligência Artificial no processo de Machine Learning para criar modelos preditivos.  
 
-<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="250" height="250" alt="Python"/>
+### 💾 Tecnologias utilizadas
+- **Bibliotecas:**
+  - **`Pandas`** - Leitura, limpeza e manipulação dos dados.
+  - **`Scikit-Learn`** - Criação e treinamento de modelos de Inteligência Artificial.
 
+- **Extensão: Jupyter Notebook** — Ambiente de desenvolvimento para notebooks interativos.
+
+### 🌟 Conclusão
+Esse projeto abriu meus olhos para o mundo do Machine Learning, não esperava que criar um modelo de Inteligência Artificial fosse ser um processo tão bem estruturado utilizando a biblioteca Scikit-Learn, sem falar no processo de limpeza de dados antes de alimentar de fato o modelo. Essa experiência me agregou muito nos meus conhecimentos como programador.
 
 &nbsp;
 

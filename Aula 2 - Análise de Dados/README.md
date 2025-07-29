@@ -61,4 +61,5 @@
 - ❗Para evitar quaisquer tipos de problemas no caso de rodar células dentro do arquivo, execute todas de uma vez clicando no botão "Executar Tudo".
 
 
+
   

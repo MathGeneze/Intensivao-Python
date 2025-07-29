@@ -18,7 +18,7 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 &nbsp;
 
-- ⌛ **Aula 3:** *Inteligência Artificial e Previsões*
+- ✅ **Aula 3:** *Inteligência Artificial e Previsões*
   - [▶︎ Clique Aqui para acessar a Documentação Completa ◀︎](./Aula%203%20-%20Previsões%20com%20Inteligência%20Artificial/)
 
 &nbsp;

@@ -23,7 +23,7 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 
 &nbsp;
 
-- ⌛ **Aula 4:** *Aplicações Web com Python*
+- ✅ **Aula 4:** *Aplicações Web com Python*
   - [▶︎ Clique Aqui para acessar a Documentação Completa ◀︎](./Aula%204%20-%20Criação%20de%20Sites/)
 
 &nbsp;
@@ -92,8 +92,13 @@ Esse projeto abriu meus olhos para o mundo do Machine Learning, não esperava qu
 ---
 
 ## ⌛ Aula 4 - Python Dev: Aplicações Web com Python
+Neste projeto, construí um site chamado Hashzap, onde ele permite uma conversação simultânea e em tempo real com outro usuário utilizando o navegador. A biblioteca que utilizei foi o Flet, onde ele permite a criação de sites / sistemas / apps de uma forma bem simples.
 
-Desenvolvendo o projeto ... Trago o resumo em breve 😉👍
+### 💾 Tecnologias utilizadas
+- **Biblioteca:**
+  - **`Flet`** - Criação do Sistema e do Visual do site.
 
-<img src="https://github.com/user-attachments/assets/6466f736-ef09-435c-ac73-51e1ce474e2d" width="250" height="250" alt="Python"/>
+### 🌟 Conclusão
+Este projeto me ensinou sobre como construir um site pode ser muito mais simples do que se imagina, porém neste caso, utilizando a mesma linguagem para o back e front-end. 
+
 

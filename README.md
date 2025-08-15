@@ -24,6 +24,7 @@ Cada pasta contém os arquivos do respectivo projeto, acompanhados de um `README
 &nbsp;
 
 - ⌛ **Aula 4:** *Aplicações Web com Python*
+  - [▶︎ Clique Aqui para acessar a Documentação Completa ◀︎](./Aula%204%20-%20Criação%20de%20Sites/)
 
 &nbsp;
 

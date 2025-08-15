@@ -19,15 +19,14 @@
 Cada usuário escolhe um nome ao entrar e pode enviar mensagens, que são imediatamente exibidas para todos os participantes conectados.
 Além disso, quando um novo usuário entra no chat, uma mensagem de status aparece para todos, indicando sua chegada.
 
-> Para este projeto, usaremos as seguintes bibliotecas:
-
-* `Flet` → Criação da interface gráfica interativa e execução da aplicação no navegador.
+Para este projeto, usaremos as seguintes bibliotecas:
+  * `Flet` - Criação da interface gráfica interativa e execução da aplicação no navegador.
 
 &nbsp;
 
 <!--------------- 📄 Estrutura do Projeto -------------->
 ## <a id="estrutura-do-projeto">📄 Estrutura do Projeto</a>
-* **main** - Código principal do projeto
+> **main** - Código principal do projeto
 
 &nbsp;
 

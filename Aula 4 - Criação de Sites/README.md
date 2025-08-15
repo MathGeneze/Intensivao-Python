@@ -7,7 +7,6 @@
 
 <!----------- 📁 Sumário ---------->
 ## 📁 Sumário
-- [Projeto - Previsões com Inteligência Artificial | Intensivão de Python](#projeto---previsões-com-inteligência-artificial--intensivão-de-python)
   - [📍 Introdução](#-introdução)
   - [📁 Sumário](#-sumário)
   - [🌐 Explicação do Projeto](#-explicação-do-projeto)

@@ -72,7 +72,7 @@ Este projeto mostrou como o Python pode ser usado para **investigar grandes volu
 
 ---
 
-## ⌛ Aula 3 - Projeto Python IA: Previsões com Inteligência Artificial
+## ✅ Aula 3 - Projeto Python IA: Previsões com Inteligência Artificial
 
 ### 📌 Principais Aprendizados
 Neste projeto, aprendi mais formas de limpeza de dados antes de inicializar qualquer tipo de análise e a importância dela para qualquer projeto envolvendo Análise de Daods. Também aprendi na prática como é criar e treinar um modelo de Inteligência Artificial no processo de Machine Learning para criar modelos preditivos.  
@@ -91,7 +91,7 @@ Esse projeto abriu meus olhos para o mundo do Machine Learning, não esperava qu
 
 ---
 
-## ⌛ Aula 4 - Python Dev: Aplicações Web com Python
+## ✅ Aula 4 - Python Dev: Aplicações Web com Python
 Neste projeto, construí um site chamado Hashzap, onde ele permite uma conversação simultânea e em tempo real com outro usuário utilizando o navegador. A biblioteca que utilizei foi o Flet, onde ele permite a criação de sites / sistemas / apps de uma forma bem simples.
 
 ### 💾 Tecnologias utilizadas

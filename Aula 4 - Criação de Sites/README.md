@@ -8,7 +8,6 @@
 <!----------- 📁 Sumário ---------->
 ## 📁 Sumário
   - [📍 Introdução](#-introdução)
-  - [📁 Sumário](#-sumário)
   - [🌐 Explicação do Projeto](#-explicação-do-projeto)
   - [📄 Estrutura do Projeto](#-estrutura-do-projeto)
   - [🖥️ Requisitos](#️-requisitos)
@@ -17,17 +16,19 @@
 
 <!--------------- 🌐 Explicação do Projeto -------------->
 ## <a id="explicação-do-projeto">🌐 Explicação do Projeto</a>
-> 
+> O Hashzap é um chat online desenvolvido em Python com a biblioteca Flet, projetado para simular conversas em tempo real diretamente no navegador.
+Cada usuário escolhe um nome ao entrar e pode enviar mensagens, que são imediatamente exibidas para todos os participantes conectados.
+Além disso, quando um novo usuário entra no chat, uma mensagem de status aparece para todos, indicando sua chegada.
 
+> Para este projeto, usaremos as seguintes bibliotecas:
 
-> Para este projeto, usaremos duas Biblioteca:
-
+* `Flet` → Criação da interface gráfica interativa e execução da aplicação no navegador.
 
 &nbsp;
 
 <!--------------- 📄 Estrutura do Projeto -------------->
 ## <a id="estrutura-do-projeto">📄 Estrutura do Projeto</a>
-
+* **main** - Código principal do projeto
 
 &nbsp;
 
@@ -37,7 +38,7 @@
 
 * Ter o **Python** instalado e atualizado até pelo menos a `versão 3.10`.
 
-* **Instale** as bibliotecas  `scikit-learn` e `pandas` pelo terminal através do comando `pip install scikit-learn pandas`.
+* **Instale** a biblioteca `flet` pelo terminal através do comando `pip install flet`.
 
 &nbsp;
 

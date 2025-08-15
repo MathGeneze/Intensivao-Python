@@ -7,7 +7,6 @@
 
 <!----------- 📁 Sumário ---------->
 ## 📁 Sumário
-  - [📍 Introdução](#-introdução)
   - [🌐 Explicação do Projeto](#-explicação-do-projeto)
   - [📄 Estrutura do Projeto](#-estrutura-do-projeto)
   - [🖥️ Requisitos](#️-requisitos)

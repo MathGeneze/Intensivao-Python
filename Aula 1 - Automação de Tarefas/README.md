@@ -48,21 +48,11 @@
 ## <a id="observações">⚠️ Observações</a>
 - ❗ O site da empresa não **armazena nenhum dado**, ele foi criado especialmente para a aula e a área de login pode ser preenchida com qualquer informação.
 
-- ‼️ Este programa foi feito com a especificação de caso o usuário tiver **mais de 1 perfil** no Google, como mostra na imagem abaixo:
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/79759fb5-7802-4004-b5fc-4800868b6fda" width="400"/>
-</p>
+- ‼️ Este programa foi feito com a especificação de caso o usuário tiver **mais de 1 perfil** no Google.
 
 - Caso você tenha apenas 1 perfil, entre no arquivo `main.py` e apague o trecho de código da `linha 14` até a `linha 17`.
 
 - Para **encerrar a automação**, basta arrastar o cursor no **canto superior esquerdo** da tela.
-                                                                          
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/da4ae27b-292d-4434-b4ed-2ea6a0e4e0a9" width="300">
-</p>
-
-
 
 
 
